@@ -1,0 +1,8 @@
+# Generated data (reproduce with generate_data.py + etl.py)
+data/raw/
+data/output/
+
+__pycache__/
+*.pyc
+.venv/
+venv/
