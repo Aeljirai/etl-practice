@@ -1,4 +1,4 @@
-# Project 01 — Basic ETL
+# Sample Project  — Basic ETL (Introduction to data engineering )
 
 ## The concept
 
@@ -10,7 +10,7 @@ get later (Airflow, Spark, dbt...), is fundamentally doing this:
 2. **Transform** — clean it, reshape it, enrich it, validate it
 3. **Load** — write the result somewhere useful (a database, a warehouse...)
 
-Real-world raw data is messy. In this project you'll deal with the classic
+Real-world raw data is messy. In this project, you'll deal with the classic
 offenders:
 - Inconsistent casing (`morocco`, `MOROCCO`, `Morocco`)
 - Multiple date formats mixed in the same column
